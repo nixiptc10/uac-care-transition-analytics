@@ -1,3 +1,18 @@
-streamlit
-pandas
-plotly
+# Core app framework
+streamlit==1.35.0
+
+# Data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+plotly==5.22.0
+
+# Machine learning
+scikit-learn==1.5.0
+
+# Forecasting
+prophet==1.1.5
+
+# Optional: for reproducibility and caching
+cmdstanpy==1.2.0
