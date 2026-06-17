@@ -1,18 +1,7 @@
---only-binary=:all:
-
-# Core app framework
-streamlit==1.35.0
-
-# Data handling
-pandas==2.3.3
-numpy==2.3.2
-
-# Visualization
-plotly==5.22.0
-
-# Machine learning
-scikit-learn==1.7.2
-
-# Forecasting
-prophet==1.1.5
-cmdstanpy==1.2.0
+streamlit>=1.32.0
+pandas>=2.2.0
+numpy>=1.26.0
+plotly>=5.20.0
+scikit-learn>=1.4.0
+prophet>=1.1.5
+matplotlib>=3.8.0
