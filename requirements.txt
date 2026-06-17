@@ -11,7 +11,7 @@ numpy==2.3.2
 plotly==5.22.0
 
 # Machine learning
-scikit-learn==1.5.0
+scikit-learn==1.7.2
 
 # Forecasting
 prophet==1.1.5
